@@ -1,0 +1,15 @@
+.carousel .dot-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+    
+}
+
+.carousel .dot.selected {
+    background-color: #8DC28C;
+}
+
+.carousel .dot {
+    background-color: #fff;
+}

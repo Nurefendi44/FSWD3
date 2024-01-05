@@ -1,0 +1,52 @@
+
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "fnb",
+        "icon": "MdOutlineFoodBank"
+      },
+      {
+        "id": 2,
+        "name": "fashion & aksesoris",
+        "icon": "GiClothes"
+      },
+      {
+        "id": 3,
+        "name": "Produk Perawatan Diri",
+        "icon": "GiLipstick"
+      },
+      {
+        "id": 4,
+        "name": "Suvenir",
+        "icon": "GiOutbackHat"
+      },
+      {
+        "id": 5,
+        "name": "Hasil Alam",
+        "icon": "GiHoneyJar"
+      },
+      {
+        "id": 6,
+        "name": "Jasa & Konsultasi",
+        "icon": "RiServerLine"
+      },
+      {
+        "id": 7,
+        "name": "Wisata & Hiburan",
+        "icon": "TbBuildingCottage"
+      },
+      {
+        "id": 8,
+        "name": "Tanah & Bangunan",
+        "icon": "BiBuildingHouse"
+      },
+      {
+        "id": 9,
+        "name": "Lowongan Kerja",
+        "icon": "GiHoneyJar"
+      }
+      
+    ]
+  }
+  

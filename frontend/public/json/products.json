@@ -1,0 +1,168 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Aneka Kue Ambo",
+      "gambar": "https://admin.galoostore.com/upload/product/1758998536462504.png",
+      "categoryId": 1,
+      "subCategories": 1,
+      "price": 5000,
+      "uploadDate": "2023-10-16T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Sambal Terasi Dapur Syifa",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 1,
+      "price": 20000,
+      "uploadDate": "2023-10-16T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 2,
+      "price": 4599,
+      "uploadDate": "2023-10-08T14:20:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 2,
+      "price": 2999,
+      "uploadDate": "2023-10-07T16:45:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 2,
+      "price": 2999,
+      "uploadDate": "2023-10-06T18:30:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 2,
+      "price": 2999,
+      "uploadDate": "2023-10-05T20:15:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 2,
+      "subCategories": 3,
+      "price": 5599,
+      "uploadDate": "2023-10-18T12:00:00Z"
+    }
+    ,
+    {
+      "id": 8,
+      "name": "Product 7",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 1,
+      "price": 5599,
+      "uploadDate": "2023-10-10T12:00:00Z"
+    }
+    ,
+    {
+      "id": 9,
+      "name": "Product 7",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 1,
+      "price": 5599,
+      "uploadDate": "2023-10-10T12:00:00Z"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Product 7",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 1,
+      "price": 5599,
+      "uploadDate": "2023-10-10T12:00:00Z"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Product 7",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 1,
+      "price": 5599,
+      "uploadDate": "2023-10-10T12:00:00Z"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Product 7",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 1,
+      "price": 5599,
+      "uploadDate": "2023-10-10T12:00:00Z"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Product 7",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 1,
+      "price": 5599,
+      "uploadDate": "2023-10-10T12:00:00Z"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Product 7",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 1,
+      "price": 5599,
+      "uploadDate": "2023-10-10T12:00:00Z"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Product 7",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 1,
+      "price": 5599,
+      "uploadDate": "2023-10-10T12:00:00Z"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Product 7",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 1,
+      "price": 5599,
+      "uploadDate": "2023-10-10T12:00:00Z"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Product 7",
+      "gambar": "https://admin.galoostore.com/upload/product/1760001673669601.png",
+      "categoryId": 1,
+      "subCategories": 1,
+      "price": 5599,
+      "uploadDate": "2023-10-10T12:00:00Z"
+    }
+    
+  ]
+}

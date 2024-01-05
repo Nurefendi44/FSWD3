@@ -1,0 +1,15 @@
+@keyframes beeAnimation {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px); /* Atur pergerakan vertikal ke atas */
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.animate-bee {
+  animation: beeAnimation 1.5s ease-in-out infinite; /* Mengatur animasi beeAnimation */
+}

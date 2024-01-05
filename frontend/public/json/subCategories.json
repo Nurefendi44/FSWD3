@@ -1,0 +1,49 @@
+
+{
+    "subCategories": [
+        {
+            "id": null,
+            "name": "All",
+            "gambar":"https://galoostore.com/img/subkategori/makanan.png",
+            "categoryId": 1,
+            "icon": "MdOutlineFoodBank"
+          },
+      {
+        "id": 1,
+        "name": "Makanan",
+        "gambar":"https://galoostore.com/img/subkategori/makanan.png",
+        "categoryId": 1,
+        "icon": "MdOutlineFoodBank"
+      },
+     
+      {
+        "id": 2,
+        "name": "Minuman",
+        "gambar":"https://galoostore.com/img/subkategori/minuman.png",
+        "categoryId": 1,
+        "icon": "GiClothes"
+      },
+      {
+        "id": 3,
+        "name": "Katering",
+        "gambar":"https://galoostore.com/img/subkategori/katering.png",
+        "categoryId": 1,
+        "icon": "GiClothes"
+      },
+      {
+        "id": 4,
+        "name": "Franchise",
+        "gambar":"https://galoostore.com/img/subkategori/franchise.png",
+        "categoryId": 1,
+        "icon": "GiClothes"
+      },
+      {
+        "id": 5,
+        "name": "cincin",
+        "gambar":"https://galoostore.com/img/subkategori/makanan.png",
+        "categoryId": 2,
+        "icon": "GiLipstick"
+      }
+    ]
+  }
+  
